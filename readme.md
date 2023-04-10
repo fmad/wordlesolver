@@ -13,6 +13,6 @@ It will also show the frequency of letters in the potential solutions, and even 
 ```
 ## Examples
 ```
-dotnet run -- -f words.txt -w 5 -v "IK" -i "WHALEDRN" -c "I3+K5-S1+K2-P4-S5-"
+dotnet run -- -f words-5.txt -w 5 -v "IK" -i "WHALEDRN" -c "I3+K5-S1+K2-P4-S5-"
 dotnet run -- -i caremnchlt -c s5-u2-s3-y5+
 ```
